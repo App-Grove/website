@@ -1,2 +1,4 @@
 # website
-Souce of website for AppGrove
+AppGroveのホームページ
+
+URL: appgrove.net
